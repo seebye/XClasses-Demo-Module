@@ -8,7 +8,7 @@
 
 		<meta-data android:name="xposedmodule" android:value="true" />
 		<meta-data android:name="xposedminversion" android:value="2.0*" />
-		<meta-data android:name="xposeddescription" android:value="XClasses Clock Demo" />
+		<meta-data android:name="xposeddescription" android:value="XClasses Demo" />
 
 
 	</application>
